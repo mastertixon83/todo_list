@@ -1,0 +1,11 @@
+.root {
+    height: 80px;
+    font-size: 24px;
+    color: #fff;
+    background: #009999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
